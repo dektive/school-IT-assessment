@@ -1,0 +1,88 @@
+ {
+   "pages": [
+
+      {
+         "pageNum": "1",
+         "options": {"op1": "Remove the institution of terra nullius.", "op2": "Remove the exile placed on him from his time on the island of Mer",
+           "op3": "The Mabo case proved that the British had committed crimes during their colonisation of indigenous soil.", "op4": "Prove that the British had claimed indigenous soil."},
+         "correctAns": "1",
+        "text": "What did the Mabo vs Queensland case achieve? - Choose the MOST correct answer."
+      },
+
+      {
+         "pageNum": "2",
+         "options": {"op1": "Mabo Court, Canberra", "op2": "Mabo Boulevard, Canberra", "op3": "Koiki Rd, Queensland", "op4": "Koiki Place, Queensland"},
+         "correctAns": "2",
+        "text": "What area is named after Mabo?"
+      },
+
+      {
+         "pageNum": "3",
+         "options": {"op1": "James Cook University - as a cleaner", "op2": "James Cook University - as a gardener", "op3": "Monash University - as a professor of law", "op4": "University of Queensland - as a cleaner."},
+         "correctAns": "2",
+        "text": "What university did Mabo work at first? What did he work as?"
+      },
+      {
+         "pageNum": "4",
+         "options": {"op1": "Justice Anthony Frank Mason", "op2": "Brian Keon-Cohen", "op3": "Justice Moynihan", "op4": "Chief Justice Sir Harry Gibbs"},
+         "correctAns": "3",
+        "text": "What was the name of the judge who oversaw the court during the Mabo case?"
+      },
+      {
+        "options": {"op1": "Realising that under the eyes of the law, he and those that stood up with him had a chance of removing indigenous discrimination",
+          "op2": "Realising the incredible injustice shown to his people due to white-claimed 'inferiority'.", "op3": "Realising that his exile could be done, given that he could prove his changed ways.",
+          "op4": "Realising that in the law's eyes, the island of Mer and other indigenous land belonged to the crown, not them."},
+        "pageNum": "5",
+         "correctAns": "4",
+        "text": "What was the turning point that led to Eddie Mabo pursuing his case? - Choose the MOST correct answer."
+      },
+      {
+         "pageNum": "6",
+         "options": {"op1": " Located off the coast of Darwin.", "op2": "Located in the Torres Strait off the coast of Queensland.", "op3": "Located off the coast of Brisbane.", "op4": "Located off the coast of Tasmania, in the Bass Straits."},
+         "correctAns": "2",
+        "text": "Where is Mer Island?"
+      },
+      {
+         "pageNum": "7",
+         "options": {"op1": "Mabuiag people", "op2": "Tudu People", "op3": "Meriam People", "op4": "Erubam Le"},
+         "correctAns": "3",
+        "text": "Of what culture does Eddie Mabo belong?"
+      },
+      {
+         "pageNum": "8",
+         "options": {"op1": "In 1973 - Clemant", "op2": "In 1983 - Townsville", "op3": "In 1973 - Townsville", "op4": "In 1983 - Rollingstone"},
+         "correctAns": "3",
+        "text": "When and where did Eddie Mabo create the community school?"
+      },
+      {
+         "pageNum": "9",
+         "options": {"op1": "Bonita Neehow", "op2": "Poipe Sambo", "op3": "Maali Bani", "op4": "Yindi Lowanna"},
+         "correctAns": "1",
+        "text": "What is the name of Mabo's wife?"
+      },
+      {
+         "pageNum": "10",
+         "options": {"op1": "A law claiming the right of the Queensland government to claim ownership of the Torres Straits islands at any time.", "op2": "A law outlawing indigenous education in Queensland.",
+           "op3": "A law acknowledging the indigenous ownership of the Torres Straits islands.", "op4": "An act attempting to annex the islands in the Torres Straits."},
+         "correctAns": "4",
+        "text": "What was the Queensland Coast Islands Declaratory Act 1985? - Choose the MOST correct answer."
+      }
+   ],
+    "information": [
+       {
+          "pageNum": "1",
+          "info": "Eddie Koiki Mabo was born on the 29th of June, 1936 on Mer Island. An avid artist and performer, Mabo would immerse himself in the cultures of his land, and would eventually come to learn English along with his native language, Meriam, and Torres Strait Islander creole. Today, Mabo Boulevard is named after him in Canberra."
+       },
+       {
+          "pageNum": "2",
+          "info": "During his teenage years, Eddie Mabo was found guilty of consuming alcohol and was exiled for a year in accordance with indigenous law. After taking a boat to Queensland, he would find his future wife, Bonita Nehow. He would then be hired as a gardener for James Cook University, where he would often give lectures around his culture. Mabo, who was already involved with politics, would then create a community school for indigenous education in 1973."
+       },
+       {
+          "pageNum": "3",
+          "info": " On the 20th of May, 1982, Eddie Koiki Mabo and fellow Mer Islanders, after realising from a colleague at James Cook University that his native lands did not legally belong to him, would begin their legal claim to ownership. Originally, it was the Queensland Coast Islands Declaratory Act 1985 that stood in his path, but through fierce opposition and determination, the high court, led by Justice Moynihan, would find the Act against the Racial Discrimination Act 1975. The Queensland Coast Islands Declaratory Act 1985 claimed the Torres Straits islands in their ownership, and claimed any compensation, be it any form, unnecessary. This allowed the case to proceed, and eventually resulted in the overturning of the terra nullius myth, which claimed that Australia was \"free for taking\" by the British. "
+
+
+
+       }
+    ]
+}
